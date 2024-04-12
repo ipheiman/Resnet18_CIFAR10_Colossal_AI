@@ -1,5 +1,7 @@
 # Train ResNet on CIFAR-10 from scratch
 
+**Note: Refer to Training_ResNet_CIFAR10_with_Colossal_AI.ipynb for logs**
+
 - The model used in the experiment: Resnet18
 - The dataset employed: CIFAR10
 - Parallel settings (if any): NIL (using single GPU on Google Colab)
