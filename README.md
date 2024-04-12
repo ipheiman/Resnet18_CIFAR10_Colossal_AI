@@ -56,4 +56,5 @@ Expected accuracy performance will be:
 | --------- | ------------------------ | --------------------- | --------------------- | ---------------------- | -------------- |
 | ResNet-18 | 85.85%                   | 84.91%                | 85.46%                | 84.50%                 | 84.60%         |
 
+![Loss Plot](loss_curve.png)
 **Note: the baseline is adapted from the [script](https://pytorch-tutorial.readthedocs.io/en/latest/tutorial/chapter03_intermediate/3_2_2_cnn_resnet_cifar10/) to use `torchvision.models.resnet18`**
